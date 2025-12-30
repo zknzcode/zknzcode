@@ -85,27 +85,18 @@
 
 ---
 
-## 📊 GitHub Statistics / GitHub İstatistikleri / GitHub-Statistiken / إحصائيات GitHub
+## 🔗 GitHub Profile / GitHub Profilim / GitHub-Profil / ملفي الشخصي على GitHub
 
 <div align="center">
 
-<a href="https://github.com/zknzcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zknzcode&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=334155&icon_color=3b82f6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zknzcode&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a8a&text_color=334155&langs_count=8" alt="Top Languages" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-zknzcode-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zknzcode)
 
-<br/>
-
-<a href="https://github.com/zknzcode">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=zknzcode&theme=default&hide_border=true&background=ffffff&ring=1e3a8a&fire=3b82f6&currStreakLabel=1e3a8a" alt="GitHub Streak" />
-</a>
+**🇹🇷 GitHub profilimi ziyaret edin:** [github.com/zknzcode](https://github.com/zknzcode)  
+**🇬🇧 Visit my GitHub profile:** [github.com/zknzcode](https://github.com/zknzcode)  
+**🇩🇪 Besuchen Sie mein GitHub-Profil:** [github.com/zknzcode](https://github.com/zknzcode)  
+**🇸🇦 قم بزيارة ملفي الشخصي على GitHub:** [github.com/zknzcode](https://github.com/zknzcode)
 
 </div>
-
-> **Not / Note / Hinweis / ملاحظة:** Görüntülerin yüklenmesi birkaç dakika sürebilir. Eğer görüntüler görünmüyorsa, sayfayı yenileyin (Ctrl+F5) veya birkaç dakika bekleyin.  
-> Images may take a few minutes to load. If images don't appear, refresh the page (Ctrl+F5) or wait a few minutes.  
-> Bilder können einige Minuten zum Laden benötigen. Wenn Bilder nicht erscheinen, aktualisieren Sie die Seite (Strg+F5) oder warten Sie einige Minuten.  
-> قد تستغرق الصور بضع دقائق للتحميل. إذا لم تظهر الصور، قم بتحديث الصفحة (Ctrl+F5) أو انتظر بضع دقائق.
 
 ---
 
