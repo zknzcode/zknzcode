@@ -27,41 +27,9 @@
 
 ## 🚀 About Me
 
-<details>
-<summary>🇬🇧 English</summary>
-
 - 🎯 I create **user-experience focused**, simple and scalable solutions  
 - 🧩 I develop **custom desktop and web applications** for real-world business needs  
-- ☁️ Experienced in **digital infrastructure**, Google Business management, and project consulting  
-
-</details>
-
-<details>
-<summary>🇹🇷 Türkçe</summary>
-
-- 🎯 **Kullanıcı deneyimi odaklı**, sade ve ölçeklenebilir çözümler geliştiriyorum  
-- 🧩 Gerçek dünya ihtiyaçlarına yönelik **özel masaüstü ve web uygulamaları** üretiyorum  
-- ☁️ **Dijital altyapı**, Google Business hesap yönetimi ve proje danışmanlığı deneyimim var  
-
-</details>
-
-<details>
-<summary>🇩🇪 Deutsch</summary>
-
-- 🎯 Entwicklung von **benutzerfreundlichen** und skalierbaren Lösungen  
-- 🧩 **Maßgeschneiderte Desktop- und Webanwendungen** für reale Geschäftsanforderungen  
-- ☁️ Erfahrung in **digitaler Infrastruktur**, Google Business und Projektberatung  
-
-</details>
-
-<details>
-<summary>🇸🇦 العربية</summary>
-
-- 🎯 إنشاء حلول **تركز على تجربة المستخدم** وبقابلية التوسع  
-- 🧩 تطوير **تطبيقات ويب وسطح مكتب مخصصة** لاحتياجات الأعمال  
-- ☁️ خبرة في **البنية التحتية الرقمية** وإدارة Google Business  
-
-</details>
+- ☁️ Experienced in **digital infrastructure**, cloud systems, and project consulting  
 
 ---
 
@@ -103,23 +71,22 @@
 
 ## 🎯 Featured Project
 
-### 🧑‍💼 Employee Management System
+### 🧑‍💼 Employee Management System  
 🔗 https://github.com/zknzcode/Employee-Management-System
 
 - 📊 Centralized employee & role management  
 - 🔐 Secure role-based admin panel  
-- ⚡ Real-time data handling with Firebase  
+- ⚡ Real-time data handling  
 - 📉 Reduced manual HR workload  
 
 **Tech Used:** React · TypeScript · Firebase
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zknzcode&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zknzcode&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zknzcode&theme=tokyo-night)
 
 </div>
 
